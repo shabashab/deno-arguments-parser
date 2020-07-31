@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "lib": [
+      "DOM", "ESNext"
+    ],
+    "experimentalDecorators": true
+  },
+  "include": [
+    "lib/**/*.ts"
+  ]
+}
