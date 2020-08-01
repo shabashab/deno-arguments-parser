@@ -13,7 +13,7 @@ To use `deno-arguments-parser` you need:
      Argument,
      ArgumentsPrototype,
      ArgumentsParser,
-   } from "https://raw.githubusercontent.    com/shabashab/deno-arguments-parser/    master/main.ts";
+   } from "https://raw.githubusercontent.com/shabashab/deno-arguments-parser/    master/main.ts";
    ```
 
 2. Create a class that extends `ArgumentsPrototype` class. On example:
