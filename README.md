@@ -44,6 +44,7 @@ To use `deno-arguments-parser` you need:
      name: string;
 
      constructor() {
+       super();
        name = "John";
      }
    }
